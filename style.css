@@ -1,0 +1,47 @@
+@charset "utf-8";
+.top_image {
+	vertical-align: central;
+	text-align: center;
+}
+
+.header {
+	color: #000;
+	background-color: #090;
+	max-height: 10px;
+	border-color: #000;
+	border-style: solid;
+	vertical-align: auto;
+	text-align: center;
+	font-family: Verdana, Geneva, sans-serif;
+	display: table;
+	margin: auto;
+	height: auto;
+	width: 600px;
+}
+.nav {
+	font-family: Verdana, Geneva, sans-serif;
+	font-style: normal;
+	text-align: center;
+
+}
+
+.article {
+	word-spacing: normal;
+	text-align: center;
+	display: block;
+	border-left-color: #000;
+	border-right-color: #000;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+.footer {
+	display: inline;
+	text-align: center;
+	font-family: Verdana, Geneva, sans-serif;
+}
+.video {
+	text-align: center;
+	vertical-align: central;
+	display: block;
+
+}
