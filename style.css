@@ -35,7 +35,7 @@
 }
 
 .footer {
-	display: inline;
+	display: block;
 	text-align: center;
 	font-family: Verdana, Geneva, sans-serif;
 }
@@ -45,3 +45,4 @@
 	display: block;
 
 }
+
